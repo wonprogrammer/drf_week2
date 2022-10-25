@@ -13,3 +13,5 @@
   - settings에 'django.contrib.staticfiles', 'drf_yasg' 설정
 - 클래스형 뷰를 작성할 수 있다.
   - 함수와 다르게 class는 추후에 다른 함수나 class의 상속이 가능하다.
+- fetch api를 써서 프론트엔드에서 DRF의 데이터를 가져와서 나타낼 수 있다.
+  - front 폴더를 생성 및 html/js파일을 만들어 연동 후 백엔드에서 실행되고 있는 서버 주소와 연결해준다.
