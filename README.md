@@ -1,9 +1,9 @@
 # drf_week2
-DRF 권기현 튜터 원격강의 2주차
+### DRF 권기현 튜터 원격강의 2주차
 
-10/25(화)
+> 10/25(화)
 
-- DRF로 프로젝트 세팅
+> - DRF로 프로젝트 세팅
 - 시리얼라이저 model 활용
   - models에 정의된 objects들을 딕셔너리 형태 즉, JSON형태의 str으로 만들어 자동으로 response 할 수 있게 만들어 주는게 serializer 이다.
 - 시리얼라이저를 활용해서 CRUD하기
